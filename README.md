@@ -4,9 +4,9 @@ Automatically notify a friend (or simply yourself!) when a steam game has starte
 
 ## Setup
 This service is intended to run on a local computer.  It requires 3 environment variables:
-GMAIL_SENDER_EMAIL:     The email address of the sender
-GMAIL_SENDER_PASSWORD:  The password required to sign-in to the sender's email (instructions below)
-EMAIL_RECEIVER_EMAIL:   A single recipient, or a list of recipients, having the form "john@mail.com, cass@mail.com"
+- GMAIL_SENDER_EMAIL:     The email address of the sender
+- GMAIL_SENDER_PASSWORD:  The password required to sign-in to the sender's email (instructions below)
+- EMAIL_RECEIVER_EMAIL:   A single recipient, or a list of recipients, having the form "john@mail.com, cass@mail.com"
 
 ## Gmail Password
 
