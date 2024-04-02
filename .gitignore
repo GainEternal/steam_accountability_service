@@ -1,0 +1,6 @@
+**/__pycache__
+
+**.env*
+
+game_state.txt
+steam_log.txt
